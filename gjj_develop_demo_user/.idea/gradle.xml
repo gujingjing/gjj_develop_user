@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dateTimePickerLib" />
+            <option value="$PROJECT_DIR$/datetimepickerdemo" />
+            <option value="$PROJECT_DIR$/deleteAnimeLib" />
+            <option value="$PROJECT_DIR$/deleteanimedemo" />
+            <option value="$PROJECT_DIR$/editTextLib" />
+            <option value="$PROJECT_DIR$/edittextdemo" />
+            <option value="$PROJECT_DIR$/nomallistviewlib" />
+            <option value="$PROJECT_DIR$/nomallistviewwithdelitem" />
+            <option value="$PROJECT_DIR$/progreseLib" />
+            <option value="$PROJECT_DIR$/progressdemo" />
+            <option value="$PROJECT_DIR$/recyleviewdemo1_test" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

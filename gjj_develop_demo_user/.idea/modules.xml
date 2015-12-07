@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dateTimePickerLib/dateTimePickerLib.iml" filepath="$PROJECT_DIR$/dateTimePickerLib/dateTimePickerLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datetimepickerdemo/datetimepickerdemo.iml" filepath="$PROJECT_DIR$/datetimepickerdemo/datetimepickerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deleteAnimeLib/deleteAnimeLib.iml" filepath="$PROJECT_DIR$/deleteAnimeLib/deleteAnimeLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deleteanimedemo/deleteanimedemo.iml" filepath="$PROJECT_DIR$/deleteanimedemo/deleteanimedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/editTextLib/editTextLib.iml" filepath="$PROJECT_DIR$/editTextLib/editTextLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edittextdemo/edittextdemo.iml" filepath="$PROJECT_DIR$/edittextdemo/edittextdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gjj_develop_demo_user.iml" filepath="$PROJECT_DIR$/gjj_develop_demo_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nomallistviewlib/nomallistviewlib.iml" filepath="$PROJECT_DIR$/nomallistviewlib/nomallistviewlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nomallistviewwithdelitem/nomallistviewwithdelitem.iml" filepath="$PROJECT_DIR$/nomallistviewwithdelitem/nomallistviewwithdelitem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progreseLib/progreseLib.iml" filepath="$PROJECT_DIR$/progreseLib/progreseLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressdemo/progressdemo.iml" filepath="$PROJECT_DIR$/progressdemo/progressdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyleviewdemo1_test/recyleviewdemo1_test.iml" filepath="$PROJECT_DIR$/recyleviewdemo1_test/recyleviewdemo1_test.iml" />
+    </modules>
+  </component>
+</project>
