@@ -1,1 +1,1 @@
-include ':app', ':progressdemo', ':progreseLib', ':edittextdemo', ':editTextLib', ':datetimepickerdemo', ':dateTimePickerLib', ':deleteanimedemo', ':deleteAnimeLib', ':recyleviewdemo1_test', ':nomallistviewwithdelitem', ':nomallistviewlib'
+include ':app', ':progressdemo', ':progreseLib', ':edittextdemo', ':editTextLib', ':dateTimeOickerDemo', ':dateTimePickerLib', ':deleteanimedemo', ':deleteAnimeLib', ':recyleviewdemo1_test', ':nomallistviewwithdelitem', ':nomallistviewlib', ':timeSelectorDemo', ':timeselectorLib'

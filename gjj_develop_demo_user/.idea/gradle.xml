@@ -10,8 +10,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dateTimeOickerDemo" />
             <option value="$PROJECT_DIR$/dateTimePickerLib" />
-            <option value="$PROJECT_DIR$/datetimepickerdemo" />
             <option value="$PROJECT_DIR$/deleteAnimeLib" />
             <option value="$PROJECT_DIR$/deleteanimedemo" />
             <option value="$PROJECT_DIR$/editTextLib" />
@@ -21,6 +21,8 @@
             <option value="$PROJECT_DIR$/progreseLib" />
             <option value="$PROJECT_DIR$/progressdemo" />
             <option value="$PROJECT_DIR$/recyleviewdemo1_test" />
+            <option value="$PROJECT_DIR$/timeSelectorDemo" />
+            <option value="$PROJECT_DIR$/timeselectorLib" />
           </set>
         </option>
       </GradleProjectSettings>
