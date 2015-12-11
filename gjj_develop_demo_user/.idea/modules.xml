@@ -15,8 +15,11 @@
       <module fileurl="file://$PROJECT_DIR$/progreseLib/progreseLib.iml" filepath="$PROJECT_DIR$/progreseLib/progreseLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressdemo/progressdemo.iml" filepath="$PROJECT_DIR$/progressdemo/progressdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyleviewdemo1_test/recyleviewdemo1_test.iml" filepath="$PROJECT_DIR$/recyleviewdemo1_test/recyleviewdemo1_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/talkingdatademo/talkingdatademo.iml" filepath="$PROJECT_DIR$/talkingdatademo/talkingdatademo.iml" />
       <module fileurl="file://$PROJECT_DIR$/timeSelectorDemo/timeSelectorDemo.iml" filepath="$PROJECT_DIR$/timeSelectorDemo/timeSelectorDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/timeselectorLib/timeselectorLib.iml" filepath="$PROJECT_DIR$/timeselectorLib/timeselectorLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpageradDemo/viewpageradDemo.iml" filepath="$PROJECT_DIR$/viewpageradDemo/viewpageradDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerindicatorLib/viewpagerindicatorLib.iml" filepath="$PROJECT_DIR$/viewpagerindicatorLib/viewpagerindicatorLib.iml" />
     </modules>
   </component>
 </project>

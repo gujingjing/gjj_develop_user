@@ -21,8 +21,11 @@
             <option value="$PROJECT_DIR$/progreseLib" />
             <option value="$PROJECT_DIR$/progressdemo" />
             <option value="$PROJECT_DIR$/recyleviewdemo1_test" />
+            <option value="$PROJECT_DIR$/talkingdatademo" />
             <option value="$PROJECT_DIR$/timeSelectorDemo" />
             <option value="$PROJECT_DIR$/timeselectorLib" />
+            <option value="$PROJECT_DIR$/viewpageradDemo" />
+            <option value="$PROJECT_DIR$/viewpagerindicatorLib" />
           </set>
         </option>
       </GradleProjectSettings>
