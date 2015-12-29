@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
@@ -20,7 +21,10 @@ public class MainActivity extends AppCompatActivity {
     ImageView iv1;
     @Bind(R.id.iv2)
     ImageView iv2;
+    @Bind(R.id.tv_auto)
+    TextView tvAuto;
     private ExplosionField mExplosionField;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         addListener(findViewById(R.id.iv1));
         addListener(findViewById(R.id.iv2));
     }
+
     private void addListener(View root) {
         if (root instanceof ViewGroup) {
             ViewGroup parent = (ViewGroup) root;
