@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/deleteanimedemo/deleteanimedemo.iml" filepath="$PROJECT_DIR$/deleteanimedemo/deleteanimedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/editTextLib/editTextLib.iml" filepath="$PROJECT_DIR$/editTextLib/editTextLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/edittextdemo/edittextdemo.iml" filepath="$PROJECT_DIR$/edittextdemo/edittextdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filedowndemo/filedowndemo.iml" filepath="$PROJECT_DIR$/filedowndemo/filedowndemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/gjj_develop_demo_user.iml" filepath="$PROJECT_DIR$/gjj_develop_demo_user.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8demo/java8demo.iml" filepath="$PROJECT_DIR$/java8demo/java8demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/listAnimationLib/listAnimationLib.iml" filepath="$PROJECT_DIR$/listAnimationLib/listAnimationLib.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/progreseLib/progreseLib.iml" filepath="$PROJECT_DIR$/progreseLib/progreseLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressdemo/progressdemo.iml" filepath="$PROJECT_DIR$/progressdemo/progressdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyleviewdemo1_test/recyleviewdemo1_test.iml" filepath="$PROJECT_DIR$/recyleviewdemo1_test/recyleviewdemo1_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rltrapulltorefreshdemo/rltrapulltorefreshdemo.iml" filepath="$PROJECT_DIR$/rltrapulltorefreshdemo/rltrapulltorefreshdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/talkingdatademo/talkingdatademo.iml" filepath="$PROJECT_DIR$/talkingdatademo/talkingdatademo.iml" />
       <module fileurl="file://$PROJECT_DIR$/timeSelectorDemo/timeSelectorDemo.iml" filepath="$PROJECT_DIR$/timeSelectorDemo/timeSelectorDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/timeselectorLib/timeselectorLib.iml" filepath="$PROJECT_DIR$/timeselectorLib/timeselectorLib.iml" />
