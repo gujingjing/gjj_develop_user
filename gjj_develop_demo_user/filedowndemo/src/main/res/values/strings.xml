@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">fileDownDemo</string>
     <string name="action_settings">Settings</string>
 
     <string name="app_name">FileDownloader Demo</string>
